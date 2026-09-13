@@ -1,4 +1,7 @@
+# 🏆1st Place : OOSC 4.0 x GDG Hackathon , IIIT Allahabad
+
 # NYAAY AI — Civic Legal Operating System
+
 
 <div align="center">
   <h2>Not Just a Legal Engine.<br><em>A Companion to Justice. ⚖️</em></h2>
